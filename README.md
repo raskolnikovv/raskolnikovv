@@ -46,7 +46,7 @@ Focado em desenvolvimento Front-End e Mobile com expertise em React e React Nati
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raskolnikovv&theme=radical&hide_border=true" alt="raskolnikovv's streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=raskolnikovv&theme=radical&hide_border=true" alt="raskolnikovv's streak stats"/>
 </div>
 
 ## 🔥 Projetos em Destaque
