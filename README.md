@@ -64,13 +64,14 @@ Focado em desenvolvimento Front-End e Mobile com expertise em React e React Nati
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehve.contato@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-f-machado)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6E96?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6E96?style=for-the-badge&logo=About.me&logoColor=white)](https://eversonportfolio.netlify.app/)
   
 </div>
 
 <div align="center">
   
   ![Snake animation](https://github.com/raskolnikovv/raskolnikovv/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
