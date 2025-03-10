@@ -1,25 +1,81 @@
-## Hello I'm Everson, Front End and Mobile developer.
+# Olá, mundo! 👋 Eu sou Everson
+
+> Front-End & Mobile Developer | TypeScript | React | Node.js
+
 <div align="center">
-  <a href="https://github.com/raskolnikovv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raskolnikovv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikovv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="ehve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ehve-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="ehve-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ehve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ehve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ehve-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="ehve-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/847560951523966976/1030597986738249789/supermii_share_15990603_1.png?width=427&height=427">
-</div>
   
-  ##
- 
-<div> 
-  <a href="mailto:ehve.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/everson-f-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Desenvolvedor+Mobile;Entusiasta+de+UI%2FUX;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
+
+## 💫 Sobre Mim
+
+Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário intuitivas. Focado em desenvolvimento Front-End e Mobile com expertise em React e React Native.
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Atualmente trabalhando com desenvolvimento Front-End e Mobile
+- 🌱 Sempre aprendendo novas tecnologias e frameworks
+- 💬 Pergunte-me sobre JavaScript, TypeScript, React e UI/UX
+- 📫 Contato: ehve.contato@gmail.com
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raskolnikovv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikovv&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raskolnikovv&theme=radical&hide_border=true" alt="raskolnikovv's streak stats"/>
+</div>
+
+## 🔥 Projetos em Destaque
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raskolnikovv&repo=NOME-DO-REPOSITORIO&theme=radical&hide_border=true)](https://github.com/raskolnikovv/NOME-DO-REPOSITORIO)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raskolnikovv&repo=NOME-DO-REPOSITORIO&theme=radical&hide_border=true)](https://github.com/raskolnikovv/NOME-DO-REPOSITORIO)
+
+</div>
+
+## 🤝 Vamos Conectar
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehve.contato@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-f-machado)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6E96?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+  
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/raskolnikovv/raskolnikovv/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raskolnikovv&style=flat-square&color=ff6e96" alt="Profile views"/>
+  <p>💖 Obrigado pela visita!</p>
 </div>
