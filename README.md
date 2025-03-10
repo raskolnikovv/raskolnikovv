@@ -14,7 +14,7 @@ Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuár
 intuitivas. Focado em desenvolvimento Front-End e Mobile com expertise em React  
 e React Native.
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="position: absolute; right: 0; top: 0;">
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
