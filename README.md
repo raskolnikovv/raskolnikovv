@@ -10,8 +10,9 @@
 
 ## 💫 Sobre Mim
 
-Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário intuitivas.   
-Focado em desenvolvimento Front-End e Mobile com expertise em React e React Native.
+Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário  
+intuitivas. Focado em desenvolvimento Front-End e Mobile com expertise em React  
+e React Native.
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -43,10 +44,6 @@ Focado em desenvolvimento Front-End e Mobile com expertise em React e React Nati
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raskolnikovv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikovv&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=raskolnikovv&theme=radical&hide_border=true" alt="raskolnikovv's streak stats"/>
 </div>
 
 ## 🔥 Projetos em Destaque
