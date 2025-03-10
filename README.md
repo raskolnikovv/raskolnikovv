@@ -70,7 +70,6 @@ Focado em desenvolvimento Front-End e Mobile com expertise em React e React Nati
 
 <div align="center">
   
-  ![Snake animation](https://github.com/raskolnikovv/raskolnikovv/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
