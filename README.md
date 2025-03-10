@@ -10,7 +10,7 @@
 
 ## 💫 Sobre Mim
 
-Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário intuitivas. 
+Desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário intuitivas.   
 Focado em desenvolvimento Front-End e Mobile com expertise em React e React Native.
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
