@@ -48,7 +48,7 @@ e React Native.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikovv&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-## 🔥 Projetos em Destaque
+<!--## 🔥 Projetos em Destaque
 
 <div align="center">
   
@@ -83,3 +83,4 @@ e React Native.
   <img src="https://komarev.com/ghpvc/?username=raskolnikovv&style=flat-square&color=ff6e96" alt="Profile views"/>
   <p>💖 Obrigado pela visita!</p>
 </div>
+-->
