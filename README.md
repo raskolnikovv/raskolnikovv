@@ -1,4 +1,4 @@
-# Olá! Eu sou Everson
+# Olá! Eu sou Everson.
 
 > Front-End & Mobile Developer | TypeScript | React | Node.js
 
